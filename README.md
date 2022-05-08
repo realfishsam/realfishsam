@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about search engines 
 - 💞️ I’m looking forwards to study computer science after summer
 - 📫 Write to me: samuel.tinnerholm@gmail.com
+- 💞️ Or check out my website samuel.tinnerolm@gmail.com
 
 <!---
 realfishsam/realfishsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
