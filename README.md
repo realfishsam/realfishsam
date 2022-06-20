@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @realfishsam
-- 👀 I build cool stuff in my sparetime
-- 🌱 I’m currently learning about search engines 
-- 💞️ I’m looking forwards to study computer science after summer
+- 👀 I build stuff
+- 🌱 I’m currently studying algorithms to develop a search enigne
+- 💞️ I can't wait to study at Vrije University
 - 📫 Write to me: samuel.tinnerholm@gmail.com
-- 💞️ Or check out my website samuel.tinnerolm.com
+- 💞️ Or check out my website samueltinnerolm.com
 
 <!---
 realfishsam/realfishsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
