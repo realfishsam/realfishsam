@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realfishsam
 - 👀 I build stuff
-- 🌱 I’m currently studying algorithms to develop a search enigne
-- 💞️ I can't wait to study at Vrije University
+- 🌱 I’m currently studying Industrial Engineering at Uppsala University
+- 💞️ I can't wait to release my first full scale app
 - 📫 Write to me: samuel.tinnerholm@gmail.com
 - 💞️ Or check out my website samueltinnerolm.com
 
