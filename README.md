@@ -2,7 +2,8 @@
 
 <h3>👀 I build stuff:</h3>
 - 💞️ Fire Run 2000, out on iOS devices now :clap:
-- Rosenblatt Labs, utilizing GPT technology to capitalize on short term market trends
+- Rosenblatt Labs, utilizing GPT technology to capitalize on short-term market trends 📈
+- Employee at Centreville Partners Propeterra in London 🍊
 
 <h3>🌱 Physics & Engineering at The National University of Singapore</h3>
 
