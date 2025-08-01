@@ -5,12 +5,12 @@ The fastest way to go from backtest to live trading- open source, broker-agnosti
 
 <h2>☕ Coffee Break for YouTube ☕</h2>
 
-A Chrome manifest V3 compliant ad blocker for YouTube
+A Chrome manifest V3-compliant ad blocker for YouTube
 
 
 <h1>About</h1>
 <h3>👨‍🏭IE / 💻CS / 🌌Physics</h3>
-Undergrad* in IE. Grad studies in CS. Electives in Physics?
+Undergraduate studies in IE/Physics. Grad studies in CS/AI?
 
 <h3>Location</h3>
 📍Singapore / Stockholm
