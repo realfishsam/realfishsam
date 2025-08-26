@@ -10,7 +10,7 @@ A Chrome manifest V3-compliant ad blocker for YouTube
 
 <h1>About</h1>
 <h3>👨‍🏭IE / 💻CS / 🌌Physics</h3>
-Undergraduate studies in IE/Physics. Grad studies in CS/AI?
+Undergraduate studies in IE/Physics. Grad studies in CS/AI
 
 <h3>Location</h3>
 📍Singapore / Stockholm
