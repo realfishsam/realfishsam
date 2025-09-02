@@ -1,20 +1,46 @@
-<h1>Projects</h1>
-<h2>📉 StrateQueue 📈</h2>
+<h1 align="center">
+  About
+</h1>
 
-The fastest way to go from backtest to live trading- open source, broker-agnostic, production-ready.
+<p align="center">👨‍🏭 IE / 💻 CS / 🌌 Physics</p>
+<p align="center">Uppsala University / National University of Singapore</p>
+<p align="center">📍 Singapore / Stockholm</p>
 
-<h2>☕ Coffee Break for YouTube ☕</h2>
+<p align="center">
+  <a href="https://x.com/samtinnerholm">🐦 𝕏</a> |
+  <a href="https://www.linkedin.com/in/samueltinnerholm/">💼 LinkedIn</a>
+</p>
 
-A Chrome manifest V3-compliant ad blocker for YouTube
+---
 
+<h1 align="center">
+  Projects
+</h1>
 
-<h1>About</h1>
-<h3>👨‍🏭IE / 💻CS / 🌌Physics</h3>
-Undergraduate studies in IE/Physics. Grad studies in CS/AI
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  
+<a href="https://github.com/StrateQueue/StrateQueue">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=StrateQueue&repo=StrateQueue&theme=default" alt="StrateQueue Repo" />
+</a>
+  
+<p>The fastest way to go from backtest to live trading — open source, broker-agnostic, production-ready.</p>
 
-<h3>Location</h3>
-📍Singapore / Stockholm
+</td>
+<td align="center" width="50%">
 
-<h3>Socials</h3>
-<a href="https://x.com/samtinnerholm">𝕏</a>
-<a href="https://www.linkedin.com/in/samueltinnerholm/">LinkedIn</a>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2kwZ2x3dnZuZW03cmF1M2N4dTZvZTd0NHpkNWQ2c3FiZ2NtemJ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XA2cDG4TqkyTUgguST/giphy.gif" alt="Coffee Cup" width="80" />
+</p>
+  
+<a href="https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap">
+  <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Coffee%20Break-orange?logo=google-chrome&style=for-the-badge" alt="Coffee Break" />
+</a>
+  
+<p>A Chrome manifest V3-compliant ad blocker for YouTube.</p>
+
+</td>
+</tr>
+</table>
+
