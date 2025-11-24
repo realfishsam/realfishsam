@@ -19,6 +19,14 @@
 
 <table align="center">
 <tr>
+<td align="center" colspan="2">
+<a href="https://github.com/madrasly/madrasly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=madrasly&repo=madrasly&theme=default" alt="Madrasly Repo" />
+</a>
+<p>Auto-generate interactive API playgrounds from OpenAPI specs. Get developers calling your API in seconds.</p>
+</td>
+</tr>
+<tr>
 <td align="center" width="50%">
   
 <a href="https://github.com/StrateQueue/StrateQueue">
@@ -43,4 +51,3 @@
 </td>
 </tr>
 </table>
-
