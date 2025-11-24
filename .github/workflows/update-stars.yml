@@ -34,7 +34,7 @@ jobs:
             }
           }" README.md
           
-          sed -i "/<!-- STAR_COUNT_START -->/a <b>Total Stars Across Projects:</b> ${TOTAL_STARS} ⭐" README.md
+          sed -i "/<!-- STAR_COUNT_START -->/a <div align=\"center\"><b>Total Stars Across Projects:</b> ${TOTAL_STARS} ⭐</div>" README.md
           
       - name: Commit changes
         run: |
