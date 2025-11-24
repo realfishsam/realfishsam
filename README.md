@@ -12,6 +12,12 @@
 </p>
 
 ---
+<!-- STAR_COUNT_START -->
+<p align="center">
+  <b>Total Stars Across Projects:</b> 0 ⭐
+</p>
+<!-- STAR_COUNT_END -->
+---
 
 <h1 align="center">
   Projects
