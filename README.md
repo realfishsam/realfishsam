@@ -52,6 +52,17 @@
   
 <p>A Chrome manifest V3-compliant ad blocker for YouTube.</p>
 
+<tr>
+<td align="center" colspan="2">
+<a href="https://github.com/qoery-com/pmxt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qoery-com&repo=pmxt&theme=default" alt="PMXT Repo" />
+</a>
+<p>A unified API for accessing prediction market data across multiple exchanges..</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 </td>
 </tr>
 </table>
