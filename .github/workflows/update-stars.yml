@@ -23,9 +23,10 @@ jobs:
           STRATEQUEUE_STARS=$(curl -s "https://api.github.com/repos/StrateQueue/StrateQueue" | jq '.stargazers_count')
           MADRASLY_STARS=$(curl -s "https://api.github.com/repos/madrasly/madrasly" | jq '.stargazers_count')
           PMXT_STARS=$(curl -s "https://api.github.com/repos/qoery-com/pmxt" | jq '.stargazers_count')
+          PMXT_ARB_BOT_STARS=$(curl -s "https://api.github.com/realfishsam/prediction-market-arbitrage-bot" | jq '.stargazers_count')
           
           # Calculate total
-          TOTAL_STARS=$((STRATEQUEUE_STARS + MADRASLY_STARS + PMXT_STARS))
+          TOTAL_STARS=$((STRATEQUEUE_STARS + MADRASLY_STARS + PMXT_STARS + PMXT_ARB_BOT_STARS))
           
           # Update README.md
           # This replaces content between the comment markers
