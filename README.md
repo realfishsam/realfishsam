@@ -13,7 +13,7 @@
 
 ---
 <!-- STAR_COUNT_START -->
-<div align="center"><b>Total Stars Across Projects:</b> 198 ⭐</div>
+<div align="center"><b>Total Stars Across Projects:</b> 197 ⭐</div>
 <!-- STAR_COUNT_END -->
 ---
 
