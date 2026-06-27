@@ -12,6 +12,13 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/realfishsam">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+  </a>
+</p>
+
 <!-- STAR_COUNT_START -->
 <div align="center"><b>Total Stars Across Projects:</b> 211 ⭐</div>
 <!-- STAR_COUNT_END -->
