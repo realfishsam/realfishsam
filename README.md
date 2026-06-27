@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">👨‍🏭 IE / 💻 CS / 🌌 Physics</p>
-<p align="center">Uppsala University / National University of Singapore</p>
-<p align="center">📍 Singapore / Stockholm</p>
+<p align="center">National University of Singapore</p>
+<p align="center">📍 Stockholm i mitt hjärta</p>
 
 <p align="center">
   <a href="https://x.com/samtinnerholm">🐦 𝕏</a> |
